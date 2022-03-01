@@ -1,2 +1,2 @@
-# Encryption-Validity---HackerRank
+# HackerRank-Encryption-Validity
  
